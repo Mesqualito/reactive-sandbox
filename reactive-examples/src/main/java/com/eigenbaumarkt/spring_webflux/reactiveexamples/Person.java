@@ -1,4 +1,4 @@
-package guru.springframework.reactiveexamples;
+package com.eigenbaumarkt.spring_webflux.reactiveexamples;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

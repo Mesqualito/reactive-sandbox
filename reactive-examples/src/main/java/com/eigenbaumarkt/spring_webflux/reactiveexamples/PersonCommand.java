@@ -1,4 +1,4 @@
-package guru.springframework.reactiveexamples;
+package com.eigenbaumarkt.spring_webflux.reactiveexamples;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -10,6 +10,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+// Command-object emulation
 public class PersonCommand {
 
     public PersonCommand(Person person) {
